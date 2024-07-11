@@ -9,4 +9,8 @@
     2. Even though complexities can be added, intentionally kept simple.
     3. Would be regularly updated as I move along the Odin Project Curriculum[https://www.theodinproject.com/].
     4. All the content rights are with allrecipes.com[https://www.allrecipes.com/], its just another content repurposing exercise
-
+## Methods used
+    1. used target="blank" attribute of HTML anchor tag, for better CSS
+    2. used proper folder structures
+    3. used Kebab-Case and a mix of smallcase kebab-case.
+    4. Broken down things into smaller parts for better understanding of recipes.
